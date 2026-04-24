@@ -1,0 +1,40 @@
+D:/cn/alu_tb.v {1 {vlog -work work -stats=none D:/cn/alu_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu_tb
+
+Top level modules:
+	alu_tb
+
+} {} {}} D:/cn/control_unit.v {1 {vlog -work work -stats=none D:/cn/control_unit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flag_gen
+-- Compiling module mux_4to1_16
+-- Compiling module control_unit
+
+Top level modules:
+	flag_gen
+	mux_4to1_16
+	control_unit
+
+} {} {}} D:/cn/adder_sub.v {1 {vlog -work work -stats=none D:/cn/adder_sub.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder_sub
+
+Top level modules:
+	adder_sub
+
+} {} {}} D:/cn/full_adder.v {1 {vlog -work work -stats=none D:/cn/full_adder.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module full_adder
+
+Top level modules:
+	full_adder
+
+} {} {}} D:/cn/booth_r4_mult.v {1 {vlog -work work -stats=none D:/cn/booth_r4_mult.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module booth_r4_mult
+
+Top level modules:
+	booth_r4_mult
+
+} {} {}}

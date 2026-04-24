@@ -1,0 +1,209 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/stefan/test
+vadder_sub
+Z0 !s110 1777059449
+!i10b 1
+!s100 0dG@ncQ^1GUF_DQkDNLj41
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IzBEWWSG;<RL<Yb<kA:>`T0
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dD:/cn
+w1777058132
+8adder_sub.v
+Fadder_sub.v
+!i122 11
+L0 4 39
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1777059449.000000
+!s107 alu_tb.v|alu_top.v|control_unit.v|nr_divider.v|booth_r4_mult.v|adder_sub.v|full_adder.v|
+Z6 !s90 -reportprogress|300|full_adder.v|adder_sub.v|booth_r4_mult.v|nr_divider.v|control_unit.v|alu_top.v|alu_tb.v|
+!i113 1
+Z7 tCvgOpt 0
+valu_tb
+R0
+!i10b 1
+!s100 kKglCi=0<?R1akG]dH;i83
+R1
+IeK;HjA54bGzMXCnmXgAAL1
+R2
+R3
+w1777058655
+8alu_tb.v
+Falu_tb.v
+!i122 11
+L0 3 140
+R4
+r1
+!s85 0
+31
+R5
+Z8 !s107 alu_tb.v|alu_top.v|control_unit.v|nr_divider.v|booth_r4_mult.v|adder_sub.v|full_adder.v|
+R6
+!i113 1
+R7
+valu_top
+R0
+!i10b 1
+!s100 Q5SHlJKeYB5mG=eaJ742f0
+R1
+IB>]FOoKQWFPf]Ak8T4c7i1
+R2
+R3
+Z9 w1777059157
+Z10 8alu_top.v
+Z11 Falu_top.v
+!i122 11
+L0 21 147
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vbooth_r4_mult
+R0
+!i10b 1
+!s100 efBY:;T>D9A_GFi;YgK=Y1
+R1
+I:I8ajTeN?okJ]aO_nBjGA2
+R2
+R3
+w1777057908
+8booth_r4_mult.v
+Fbooth_r4_mult.v
+!i122 11
+L0 7 154
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vcontrol_unit
+R0
+!i10b 1
+!s100 oNK9I]VU2omBI[9a4HPeZ1
+R1
+Imm^TkJa[Eh[l@XY<1hEId1
+R2
+R3
+w1777057923
+8control_unit.v
+Fcontrol_unit.v
+!i122 11
+L0 47 85
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vflag_gen
+R0
+!i10b 1
+!s100 FMFXd8gkgEoN2UgVh[GPl3
+R1
+Ic6EZAogm6`HJFa6o;QK[E0
+R2
+R3
+R9
+R10
+R11
+!i122 11
+L0 187 14
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vfull_adder
+R0
+!i10b 1
+!s100 0=DGHW_M]JAjcBYV7<_^e1
+R1
+IE3B?RjWcM8;>DS^ePh8eh3
+R2
+R3
+w1777058141
+8full_adder.v
+Ffull_adder.v
+!i122 11
+L0 2 14
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vmux_4to1_16
+R0
+!i10b 1
+!s100 U`Db3NZg`@]X;OQh`DM_62
+R1
+IAGbf8Y^NjM;68UjKWNWk]0
+R2
+R3
+R9
+R10
+R11
+!i122 11
+L0 173 9
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
+vnr_divider
+R0
+!i10b 1
+!s100 mC9L0MKOUca=Lgcjal?VV1
+R1
+IDb`cDHg8_??_z9ZROBbSI0
+R2
+R3
+w1777059406
+8nr_divider.v
+Fnr_divider.v
+!i122 11
+L0 8 95
+R4
+r1
+!s85 0
+31
+R5
+R8
+R6
+!i113 1
+R7
